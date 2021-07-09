@@ -40,9 +40,9 @@ This Course provides an introductory technical overview of VMware vSphere with T
 
 Status: Completed
 #####
-OpenBadge_EntityId: 
+OpenBadge_EntityId: 4BvzRN7ETEmeFCUjZf7Xpg
 #####
-OpenBadge_Certificate_Url: []()
+OpenBadge_Certificate_Url: [Badgr Verification Page](https://badgr.com/public/assertions/4BvzRN7ETEmeFCUjZf7Xpg?identity__email=giodomi1989@gmail.com)
 #####
 
 
